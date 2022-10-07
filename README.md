@@ -3,7 +3,7 @@
 **`The Man who is on a Mission`**
 
 
-I truly believe that epic things starts with a humble beginning, 
+I truly believe that an epic story starts with a humble beginning, 
 and thats exactly how my origin story of becoming a Software Engineer Began!
  As you embark on this new journey, undertand that the first few steps are usually 
 the toughest ones. After walking for a while, you realized that things get 
